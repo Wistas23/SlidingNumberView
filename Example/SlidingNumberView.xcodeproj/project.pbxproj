@@ -212,10 +212,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = MUE5T5RY67;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = MUE5T5RY67;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -478,6 +480,7 @@
 			baseConfigurationReference = F70E5DDC5F420D83EC43D9D7 /* Pods-SlidingNumberView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MUE5T5RY67;
 				INFOPLIST_FILE = SlidingNumberView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -494,6 +497,7 @@
 			baseConfigurationReference = 15C527F7DF6BF65B97C41E22 /* Pods-SlidingNumberView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MUE5T5RY67;
 				INFOPLIST_FILE = SlidingNumberView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -509,6 +513,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 736BC3DC156D7A1D96951E67 /* Pods-SlidingNumberView_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = MUE5T5RY67;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -531,6 +536,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E16E060FA33E7EBD2C23C0E8 /* Pods-SlidingNumberView_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = MUE5T5RY67;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
